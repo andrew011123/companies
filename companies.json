@@ -1,1518 +1,1662 @@
 [
-    {
-      "Company": "Aldridge Electric",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://www.aldridgegroup.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Southern California | Midwest | Other",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Alston Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.alstonco.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Alten Construction LLC",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.altenconstruction.com/index.html",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Anning-Johnson Company",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://anningjohnson.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Anvil Builders",
-      "Industry Sector": "Heavy Civil",
-      "Website": "anvilbuilders.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "ARCO National Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.thearcoway.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Ausonio Inc",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.ausonio.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Avalonbay Communities",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "https://www.avaloncommunities.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Avila Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "avilaconst.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026)| Full Time (starting after June 2026 graduation) ",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Balfour Beatty",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "balfourbeattyus.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Ballard Marine Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "ballardmc.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | West Coast (other than CA) | Other",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Barnard",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.barnard-inc.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Bay Cities Paving & Grading, Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.baycities.us",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Beachcraft Builders",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "www.beachcraft.la",
-      "Date": "October 22, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Bernards Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.bernards.com/contact/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Big-D Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://recruiting2.ultipro.com/BIG1005BGDC/JobBoard/a1",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Blach Construction Company",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.blach.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Blackrock Concrete",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "https://www.blackrock-concrete.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "BNBuilders",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.bnbuilders.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California | Southern California | West Coast (other than CA) | Other",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Boyett",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "www.boyettconstruction.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Brady West, Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.bradywestinc.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Bremik Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.bremik.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Brookfield Residential",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "www.brookfieldproperties.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Other",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Burns & McDonnell",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.burnsmcd.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Outside of USA",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "C.W. Driver",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.cwdriver.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Cahill Contractors",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "https://cahill-sf.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Cahill Contractors",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://cahill-sf.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "CBG Building Company",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.cbgbuildingcompany.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | East Coast",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "CDG Builders, Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.cdgbuilders.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Clark Bros Inc",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.clarkbrosinc.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Clark Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "clarkconstruction.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Clayco",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://claycorp.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Other",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Clune Construction Company",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.clunegc.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "CORE Builders",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.corebuildersgc.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Cumming Group",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "cumming-group.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Cupertino Electric, Inc.",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "cei.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California | Southern California | Midwest | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Cushman Contracting Corporation",
-      "Industry Sector": "Heavy Civil",
-      "Website": "cushmancontracting.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "D.R. Horton",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "drhorton.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Other",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Dempsey Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.dempseyconstruction.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "DeSilva Gates Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.desilvagates.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "DMZ Builders",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.dmzbuilders.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Dome Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.domebuilds.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "DPR Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.dpr.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Eames Construction, Inc.",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "www.eamesconstruction.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Enclos",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "www.enclos.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California | Southern California | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Enclos",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.enclos.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "FLINT",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://flintbuilders.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "FTG Builders",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "www.ftgbuilders.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Garney Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "garney.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "GCI, Inc",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "gcigc.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Ghilotti Bros., Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.gbi1914.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Ghilotti Construction Company",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.ghilotti.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "GMH Builders, Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.gmhbuild.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Goodfellow Bros.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://goodfellowbros.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | West Coast (other than CA) | Other",
-      "CMAC Member": "Yes",
-      "CMAC Level": "I am not sure"
-    },
-    {
-      "Company": "Gracon LLC",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.graconllc.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Mountain (CO, Montana, Wyoming, etc.) | Midwest | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Granite Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "graniteconstruction.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | West Coast (other than CA) | Outside of USA",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Greystar Real Estate Partners, LLC",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.greystar.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "GSE Construction Co., Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.gseconstruction.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Guy F. Atkinson Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "atkn.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Guzman Construction Group, Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "guzmangc.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Harper Construction Company",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "http://www.harperconstruction.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Southern California | West Coast (other than CA) | Nevada | Arizona | Oklahoma",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Hathaway Dinwiddie Construction Company",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.hathawaydinwiddie.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Helix Electric",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "www.helixelectric.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Hensel Phelps",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.henselphelps.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Founder Member"
-    },
-    {
-      "Company": "Herrero Builders Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.herrero.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Hillhouse Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.hillhouseconstruction.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "HITT Contracting",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.hitt.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Southern California | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Holder Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "holderconstruction.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Innovative Construction Solutions",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.icsinc.tv",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "JB Pacific",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "jbpac.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "JE Dunn Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://jedunn.com/careers/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Kennedy Jenks",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.kennedyjenks.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Kiewit",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.kiewit.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Outside of USA",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Kitchell",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.kitchell.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Landmark Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "Landmarkconst.net",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Landmark Properties",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "https://www.landmarkproperties.com/construction/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Largo Concrete",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "https://www.largoconcrete.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Layton Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.laytonconstruction.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Level 10 Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.level10gc.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Linesight",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "www.linesight.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "LPL Solar, Inc",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://www.lplsolar.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Lusardi Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.lusardi.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Malcolm Drilling",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.malcolmdrilling.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Manson Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "pcoder@mansonconstruction.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Marques General Engineering, Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://mge-ca.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Matrix HG Inc",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://www.matrixhginc.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "MATT Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.mattconstruction.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "McCarthy Building Companies, Inc.",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://www.mccarthy.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "McCarthy Building Companies, Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.mccarthy.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "McGuire and Hester",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.mcguireandhester.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "McMillan Electric",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "www.mcmillanco.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "MCS",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.mcsconst.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Midstate Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.midstateconstruction.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Milender White Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.milenderwhite.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Morley Builders",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.morleybuilders.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Morris Inc",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.morris-usa.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Morrow Meadows",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://www.morrow-meadows.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California | Southern California | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Mozingo Construction Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://mozingoconstruction.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Murray Company",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "murraycompany.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California | Southern California | Other",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Nibbi",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "Nibbi.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Nibbi",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "Nibbi.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Nova Group, Inc",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://novagrp.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Other",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "NOVO Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.novoconstruction.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026)  | Full Time (starting after June 2026 graduation) | Internship (summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "NW Construction, Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.nwconstruction.us",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Mountain (CO, Montana, Wyoming, etc.)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Overaa Construction or C. Overaa & Co.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.overaa.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Pankow Builders",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.pankow.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "PCL Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.pcl.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Pence Contractors",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://pence.net/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Pence/Kelly Concrete",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "https://pencekelly.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Performance Contracting Group",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "https://www.performancecontracting.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Plant Construction Company, L.P.",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "https://plantconstruction.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Plant/Allison Corporation",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://plantconstruction.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Quiring General",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.quiring.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "RCI Builders Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://rcibuilders.net",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Redwood Electric Group",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://redwoodeg.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Related California Construction",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "https://www.relatedcalifornia.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Rodan Builders",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://rodanbuilders.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Roger",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "tryroger.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Other",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Rosendin",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://www.rosendin.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Royal Electric Company",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "https://www.royalelect.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California | Southern California | Other",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Rudolph and Sletten, Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.rsconstruction.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Ryan Companies US",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.ryancompanies.com/careers",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "S.J. Amoroso Construction Co., LLC",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.sjamoroso.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "S+B James Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://sbjames.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "S3H Inc.",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "s3hinc.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Other",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Founder Member"
-    },
-    {
-      "Company": "SC Builders",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.scbuildersinc.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Schnabel Foundation Company",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.Schnabel.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Shawmut Design and Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.shawmut.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California | East Coast",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Shimmick",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.shimmick.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California | Southern California | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Silverado Contractors, Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.silveradocontractors.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Skanska",
-      "Industry Sector": "Heavy Civil",
-      "Website": "skanska.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Skanska",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.usa.skanska.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Skyline Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.skylineconstruction.build/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Snyder Langston",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.snyderlangston.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Southland Industries",
-      "Industry Sector": "MEP / Infrastructure / Renewables",
-      "Website": "southlandind.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Stacy Witbeck",
-      "Industry Sector": "Heavy Civil",
-      "Website": "stacywitbeck.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California | Midwest | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Standard Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://standardcnst.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Structural Group",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "www.structuralgroup.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Suffolk Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "suffolk.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Sukut Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "www.sukut.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Sundt Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.sundt.com/careers/internships/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Swinerton",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "Swinerton.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Technical Builders",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.tbibuild.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Teichert",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://teichert.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California | Southern California | Other",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "TESLA, Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.tesla.com/careers",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | Midwest | East Coast",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "The Hanover Company",
-      "Industry Sector": "Residential/ Real Estate Development",
-      "Website": "www.hanoverco.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "The Walsh Group",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://www.walshgroup.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "The Whiting-Turner Contracting Co",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.whiting-turner.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Thompson Builders Corporation",
-      "Industry Sector": "Heavy Civil",
-      "Website": "tbcorp.com",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Thompson Builders Corporation",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "tbcorp.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Timberlab",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://timberlab.com/",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Toro Enterprises Inc.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://toroenterprises.com/",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Truebeck Construction",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "www.truebeck.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Northern California | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Truebeck Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.truebeck.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | West Coast (other than CA)",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Mustang Member"
-    },
-    {
-      "Company": "Turner & Townsend",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.turnerandtownsend.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Turner Construction Company",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.turnerconstruction.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "VEC",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.vec-us.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "Viola Inc.",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "violainc.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Green Member"
-    },
-    {
-      "Company": "W.E. O'Neil Construction",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "weoneil.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "W.M. Lyles Co.",
-      "Industry Sector": "Heavy Civil",
-      "Website": "https://wmlylesco.com/",
-      "Date": "October 22, 2025",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Webcor",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.webcor.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
-      "Hiring Location": "Central California | Northern California | Southern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Legacy Member"
-    },
-    {
-      "Company": "Wesely Thomas",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "www.weselythomas.com",
-      "Date": "October 23, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Southern California",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "West Valley Construction",
-      "Industry Sector": "Heavy Civil",
-      "Website": "wvcc.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
-      "Hiring Location": "Central California | Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Gold Member"
-    },
-    {
-      "Company": "Western Specialty Contractors",
-      "Industry Sector": "Concrete/ Exterior/ Interior",
-      "Website": "www.westernspecialtycontractors.com",
-      "Date": "October 22, 2025",
-      "Positions Available": "Internship (Summer 2026)",
-      "Hiring Location": "Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
-      "CMAC Member": "No"
-    },
-    {
-      "Company": "Wright Contracting",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "wrightcontracting.com",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Founder Member"
-    },
-    {
-      "Company": "XL",
-      "Industry Sector": "GC/Construction Management",
-      "Website": "https://www.xlconstruction.com/",
-      "Date": "October 23, 2025",
-      "Hiring Location": "Central California | Northern California",
-      "CMAC Member": "Yes",
-      "CMAC Level": "Founder Member"
-    }
+  {
+    "Company": "Aldridge Electric",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://www.aldridgegroup.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California | Midwest | Other",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Alston Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.alstonco.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Alten Construction LLC",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.altenconstruction.com/index.html",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Anning-Johnson Company",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://anningjohnson.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Anvil Builders",
+    "Industry Sector": "Heavy Civil",
+    "Website": "anvilbuilders.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "ARCO National Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.thearcoway.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Ausonio Inc",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.ausonio.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Avalonbay Communities",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "https://www.avaloncommunities.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Avila Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "avilaconst.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026)| Full Time (starting after June 2026 graduation) ",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Balfour Beatty",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "balfourbeattyus.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Ballard Marine Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "ballardmc.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | West Coast (other than CA) | Other",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Barnard",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.barnard-inc.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Bay Cities Paving & Grading, Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.baycities.us",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Beachcraft Builders",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "www.beachcraft.la",
+    "Date": "October 22, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Bernards Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.bernards.com/contact/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Big-D Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://recruiting2.ultipro.com/BIG1005BGDC/JobBoard/a1",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Blach Construction Company",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.blach.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Blackrock Concrete",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "https://www.blackrock-concrete.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "BNBuilders",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.bnbuilders.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California | Southern California | West Coast (other than CA) | Other",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Boyett",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "www.boyettconstruction.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Brady West, Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.bradywestinc.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Bremik Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.bremik.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Brookfield Residential",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "www.brookfieldproperties.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Other",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Burns & McDonnell",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.burnsmcd.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Outside of USA",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "C.W. Driver",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.cwdriver.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Cahill Contractors",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "https://cahill-sf.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Cahill Contractors",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://cahill-sf.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "CBG Building Company",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.cbgbuildingcompany.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | East Coast",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "CDG Builders, Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.cdgbuilders.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Clark Bros Inc",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.clarkbrosinc.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Clark Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "clarkconstruction.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Clayco",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://claycorp.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Other",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Clune Construction Company",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.clunegc.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "CORE Builders",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.corebuildersgc.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Cumming Group",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "cumming-group.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Cupertino Electric, Inc.",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "cei.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | Midwest | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Cushman Contracting Corporation",
+    "Industry Sector": "Heavy Civil",
+    "Website": "cushmancontracting.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "D.R. Horton",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "drhorton.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Other",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Dempsey Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.dempseyconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "DeSilva Gates Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.desilvagates.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "DMZ Builders",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.dmzbuilders.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Dome Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.domebuilds.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "DPR Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.dpr.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Eames Construction, Inc.",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "www.eamesconstruction.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Enclos",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "www.enclos.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California | Southern California | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Enclos",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.enclos.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "FLINT",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://flintbuilders.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "FTG Builders",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "www.ftgbuilders.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Garney Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "garney.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "GCI, Inc",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "gcigc.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Ghilotti Bros., Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.gbi1914.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Ghilotti Construction Company",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.ghilotti.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "GMH Builders, Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.gmhbuild.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Goodfellow Bros.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://goodfellowbros.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | West Coast (other than CA) | Other",
+    "CMAC Member": "Yes",
+    "CMAC Level": "I am not sure"
+  },
+  {
+    "Company": "Gracon LLC",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.graconllc.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Mountain (CO, Montana, Wyoming, etc.) | Midwest | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Granite Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "graniteconstruction.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | West Coast (other than CA) | Outside of USA",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Greystar Real Estate Partners, LLC",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.greystar.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "GSE Construction Co., Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.gseconstruction.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Guy F. Atkinson Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "atkn.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Guzman Construction Group, Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "guzmangc.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Harper Construction Company",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "http://www.harperconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Southern California | West Coast (other than CA) | Nevada | Arizona | Oklahoma",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Hathaway Dinwiddie Construction Company",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.hathawaydinwiddie.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Helix Electric",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "www.helixelectric.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Hensel Phelps",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.henselphelps.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Founder Member"
+  },
+  {
+    "Company": "Herrero Builders Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.herrero.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Hillhouse Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.hillhouseconstruction.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "HITT Contracting",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.hitt.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Southern California | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Holder Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "holderconstruction.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Innovative Construction Solutions",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.icsinc.tv",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "JB Pacific",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "jbpac.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "JE Dunn Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://jedunn.com/careers/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Kennedy Jenks",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.kennedyjenks.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Kiewit",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.kiewit.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA) | Outside of USA",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Kitchell",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.kitchell.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Landmark Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "Landmarkconst.net",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Landmark Properties",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "https://www.landmarkproperties.com/construction/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Largo Concrete",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "https://www.largoconcrete.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Layton Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.laytonconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Level 10 Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.level10gc.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Linesight",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "www.linesight.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "LPL Solar, Inc",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://www.lplsolar.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Lusardi Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.lusardi.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Malcolm Drilling",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.malcolmdrilling.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Manson Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "pcoder@mansonconstruction.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Marques General Engineering, Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://mge-ca.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Matrix HG Inc",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://www.matrixhginc.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "MATT Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.mattconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "McCarthy Building Companies, Inc.",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://www.mccarthy.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "McCarthy Building Companies, Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.mccarthy.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "McGuire and Hester",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.mcguireandhester.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "McMillan Electric",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "www.mcmillanco.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "MCS",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.mcsconst.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Midstate Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.midstateconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Milender White Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.milenderwhite.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Morley Builders",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.morleybuilders.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Morris Inc",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.morris-usa.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Morrow Meadows",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://www.morrow-meadows.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Mozingo Construction Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://mozingoconstruction.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Murray Company",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "murraycompany.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | Other",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Nibbi",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "Nibbi.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Nibbi",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "Nibbi.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Nova Group, Inc",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://novagrp.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Other",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "NOVO Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.novoconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026)  | Full Time (starting after June 2026 graduation) | Internship (summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "NW Construction, Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.nwconstruction.us",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Mountain (CO, Montana, Wyoming, etc.)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Overaa Construction or C. Overaa & Co.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.overaa.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Pankow Builders",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.pankow.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "PCL Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.pcl.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Pence Contractors",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://pence.net/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Pence/Kelly Concrete",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "https://pencekelly.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Performance Contracting Group",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "https://www.performancecontracting.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Plant Construction Company, L.P.",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "https://plantconstruction.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Plant/Allison Corporation",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://plantconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Quiring General",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.quiring.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "RCI Builders Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://rcibuilders.net",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Redwood Electric Group",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://redwoodeg.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Related California Construction",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "https://www.relatedcalifornia.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Rodan Builders",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://rodanbuilders.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Roger",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "tryroger.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Other",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Rosendin",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://www.rosendin.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Royal Electric Company",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "https://www.royalelect.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | Other",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Rudolph and Sletten, Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.rsconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Ryan Companies US",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.ryancompanies.com/careers",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "S.J. Amoroso Construction Co., LLC",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.sjamoroso.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "S+B James Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://sbjames.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "S3H Inc.",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "s3hinc.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Other",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Founder Member"
+  },
+  {
+    "Company": "SC Builders",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.scbuildersinc.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Schnabel Foundation Company",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.Schnabel.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Shawmut Design and Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.shawmut.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California | East Coast",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Shimmick",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.shimmick.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California | Southern California | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Silverado Contractors, Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.silveradocontractors.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Skanska",
+    "Industry Sector": "Heavy Civil",
+    "Website": "skanska.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Skanska",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.usa.skanska.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Skyline Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.skylineconstruction.build/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Snyder Langston",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.snyderlangston.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Southland Industries",
+    "Industry Sector": "MEP / Infrastructure / Renewables",
+    "Website": "southlandind.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Stacy Witbeck",
+    "Industry Sector": "Heavy Civil",
+    "Website": "stacywitbeck.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California | Midwest | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Standard Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://standardcnst.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Structural Group",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "www.structuralgroup.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Suffolk Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "suffolk.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Sukut Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "www.sukut.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Sundt Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.sundt.com/careers/internships/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Swinerton",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "Swinerton.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Technical Builders",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.tbibuild.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Teichert",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://teichert.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California | Southern California | Other",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "TESLA, Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.tesla.com/careers",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Midwest | East Coast",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "The Hanover Company",
+    "Industry Sector": "Residential/ Real Estate Development",
+    "Website": "www.hanoverco.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "The Walsh Group",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://www.walshgroup.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "The Whiting-Turner Contracting Co",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.whiting-turner.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Thompson Builders Corporation",
+    "Industry Sector": "Heavy Civil",
+    "Website": "tbcorp.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Thompson Builders Corporation",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "tbcorp.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Timberlab",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://timberlab.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Toro Enterprises Inc.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://toroenterprises.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Truebeck Construction",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "www.truebeck.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Northern California | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Truebeck Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.truebeck.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | West Coast (other than CA)",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Mustang Member"
+  },
+  {
+    "Company": "Turner & Townsend",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.turnerandtownsend.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Turner Construction Company",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.turnerconstruction.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "VEC",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.vec-us.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "Viola Inc.",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "violainc.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Green Member"
+  },
+  {
+    "Company": "W.E. O'Neil Construction",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "weoneil.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "W.M. Lyles Co.",
+    "Industry Sector": "Heavy Civil",
+    "Website": "https://wmlylesco.com/",
+    "Date": "October 22, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Webcor",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.webcor.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Full Time (starting January 2026) | Full Time (starting after June 2026 graduation) | Internship (Summer 2026)",
+    "Hiring Location": "Central California | Northern California | Southern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Legacy Member"
+  },
+  {
+    "Company": "Wesely Thomas",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "www.weselythomas.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Southern California",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "West Valley Construction",
+    "Industry Sector": "Heavy Civil",
+    "Website": "wvcc.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Full Time (starting after June 2026 graduation) | Internship (Summer 2026) | Internship (Open Timeframe)",
+    "Hiring Location": "Central California | Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Gold Member"
+  },
+  {
+    "Company": "Western Specialty Contractors",
+    "Industry Sector": "Concrete/ Exterior/ Interior",
+    "Website": "www.westernspecialtycontractors.com",
+    "Date": "October 22, 2025",
+    "Positions Available": "Internship (Summer 2026)",
+    "Hiring Location": "Southern California | Mountain (CO, Montana, Wyoming, etc.) | Midwest | East Coast | West Coast (other than CA)",
+    "CMAC Member": "No",
+    "CMAC Level": ""
+  },
+  {
+    "Company": "Wright Contracting",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "wrightcontracting.com",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Founder Member"
+  },
+  {
+    "Company": "XL",
+    "Industry Sector": "GC/Construction Management",
+    "Website": "https://www.xlconstruction.com/",
+    "Date": "October 23, 2025",
+    "Positions Available": "",
+    "Hiring Location": "Central California | Northern California",
+    "CMAC Member": "Yes",
+    "CMAC Level": "Founder Member"
+  }
 ]
